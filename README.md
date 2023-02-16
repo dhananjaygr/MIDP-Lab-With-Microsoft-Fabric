@@ -1,2 +1,2 @@
-# Ignite-lab
-Ignite-lab
+# MIDP-lab
+MIDP-lab
