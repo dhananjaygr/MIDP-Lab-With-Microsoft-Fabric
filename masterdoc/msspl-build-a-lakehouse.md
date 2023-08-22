@@ -162,6 +162,4 @@
 
 Congratulations! You have successfully learnt to create a lakehouse, ingest sample data and build a report.
 
-----
 
-*Continue to page 10 ...*
