@@ -79,6 +79,4 @@ Here, you create a Fabric workspace. The workspace contains all the items needed
 
 Congratulations! You have successfully learnt to create a Fabric workspace.
 
-----
 
-*Continue to page 9 ...*
