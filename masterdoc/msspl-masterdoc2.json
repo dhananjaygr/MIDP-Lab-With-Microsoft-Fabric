@@ -1,0 +1,16 @@
+[
+  {
+    "Name": "Get data into Fabric Lakehouse",
+    "Language": "English",
+    "Files": [
+      {
+      "RawFilePath": "https://raw.githubusercontent.com/CloudLabsAI-Azure/SQL-ChatGPT-Workshop/main/comman-getting-stated.md",
+        "Order": 1
+      },
+      {
+        "RawFilePath": "https://raw.githubusercontent.com/CloudLabsAI-Azure/MIDP-Lab-With-Microsoft-Fabric/dev/masterdoc/msspl-real-time-analytics-with-synapse.md",
+        "Order": 2
+      }
+    ]
+  }
+]
